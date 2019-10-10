@@ -1,0 +1,1 @@
+C:\Github\Xamarin\Nova pasta\App01_ConsultarCEP\App01_ConsultarCEP\App01_ConsultarCEP.UWP\App01_ConsultarCEP.UWP.csproj;x86
